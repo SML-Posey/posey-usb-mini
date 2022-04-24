@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "posey-usb.STEP",
+      "step": "posey-usb-mini.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
